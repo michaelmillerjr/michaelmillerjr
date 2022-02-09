@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michaelmillerjr.
-- 👀 I’m interested in theology, ethics, health care, and technology.
+- 👀 I’m interested in theology, ethics, health care, technology, music making, and dad jokes.
 - 🌱 I’m currently learning data ethics and Obsidian. 
 
 <!---
