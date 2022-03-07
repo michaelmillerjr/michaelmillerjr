@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelmillerjr.
 - 👀 I’m interested in theology, ethics, health care, technology, music making, and dad jokes.
-- 🌱 I’m currently learning data ethics and Obsidian. 
+- 🌱 My current project is researching digital phenotypes.
 
 <!---
 michaelmillerjr/michaelmillerjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
