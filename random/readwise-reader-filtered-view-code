@@ -6,11 +6,13 @@ feed:true AND (
 domain:"onefoottsunami" OR 
 domain:"sixcolors" OR 
 domain:"mjtsai" OR 
-domain:"platformer" OR 
+author:"casey newton" OR 
 domain:"daringfireball" OR 
 domain:"kneelingbus" OR
-domain:"cate" OR
-domain:"sentiers")
+author:"cate" OR
+domain:"sentiers.media" OR
+author:"inessential.com" OR
+author:"surjan singh from an engineering self-study")
 
 --- 
 
@@ -19,27 +21,33 @@ domain:"sentiers")
 feed:true AND (
 domain:"americamagazine" OR
 domain:"commonwealmagazine" OR
-domain:"thepillar")
+domain:"pillarcatholic")
 
 --- 
 
 💡 Ideas
 
 feed:true AND (
-domain:"daviddark" OR
-domain:"clearerthinking" OR
+author:"david dark from dark matter" OR
+author:"clearerthinking.org" OR
 domain:"plough" OR
-domain:"theschooloflife" OR
-domain:"heathercoxrichardson" OR
-domain:"whyisthisinteresting" OR
-domain:"biancapereira")
+author:"plough perks" OR
+author:"the school of life" OR
+author:"heather cox richardson from letters from an american" OR
+author:"why is this interesting?" OR
+author:"contact@biancapereira.me" OR
+author:"kkdumez at du mez connections" OR
+author:"judd at popular information" OR
+author:"footnotes by jemar tisby" OR
+)
 
 --- 
 
 ✏️ Fun & Games
 
 feed:true AND (
-domain:"thenib" OR
-domain:"crosswordlinks" OR
+author:"the nib" OR
+author:"daily crossword links" OR
 domain:"rexwordpuzzle" OR
-domain:"toolsandtoys")
+domain:"toolsandtoys" OR
+author:"eric maierson from fave 5")
